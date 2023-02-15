@@ -24,7 +24,7 @@ Sessionizer is easy to install and use. Simply download the appropriate binary f
 Using Sessionizer is easy. Simply run the `sessionizer` binary with the appropriate command-line arguments:
 
 ```sh
-$ sessionizer -s session-data -f flask
+$ sessionizer unsign -s session-data -f flask
 ```
 
 - `-s`, `--session` specifies the encrypted session data
